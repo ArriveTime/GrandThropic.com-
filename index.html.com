@@ -35,11 +35,11 @@
       <span class="uppercase tracking-wide font-black">🔥 GrandThropic.com is Available for Purchase</span>
       <span class="hidden sm:inline">•</span>
       <div class="inline-flex items-center gap-2">
-        <a href="tel:4802692269" class="bg-black text-white hover:bg-zinc-900 px-3 py-1 rounded-full font-extrabold mono transition">
-          Call 480-269-2269
+        <a href="tel:4802692272" class="bg-black text-white hover:bg-zinc-900 px-3 py-1 rounded-full font-extrabold mono transition">
+          Call (480) 269-2272
         </a>
-        <a href="sms:4802692269" class="bg-black/90 text-amber-300 hover:bg-black px-3 py-1 rounded-full font-extrabold mono transition">
-          Text 480-269-2269
+        <a href="sms:4802692272" class="bg-black/90 text-amber-300 hover:bg-black px-3 py-1 rounded-full font-extrabold mono transition">
+          Text (480) 269-2272
         </a>
       </div>
     </div>
@@ -65,9 +65,8 @@
 
   <main class="max-w-5xl mx-auto px-4 py-8 w-full space-y-10">
 
-    <!-- TOP AD SLOT: 728x90 Leaderboard (Responsive) -->
-    <section aria-label="Advertisement" class="w-full flex justify-center">
-      <div id="ad-slot-top" class="w-full max-w-[728px] min-h-[90px] bg-zinc-900/70 border border-dashed border-zinc-700 rounded-lg flex flex-col items-center justify-center p-2 text-center">
-        <!-- REPLACE THIS INNER DIV WITH YOUR ADSENSE / AFFILIATE CODE -->
-        <span class="text-[10px] uppercase tracking-widest text-zinc-500 font-semibold">Advertisement • 728x90 Leaderboard</span>
-        <p class="text-xs text-zinc-400 mt-1">Insert Google AdSense script
+    <!-- TOP FEATURED BANNER: ArriveTime.com -->
+    <section aria-label="Featured Partner ArriveTime" class="w-full flex justify-center">
+      <a href="https://ArriveTime.com" target="_blank" rel="noopener noreferrer" class="group w-full max-w-[728px] bg-gradient-to-r from-sky-950 via-zinc-900 to-emerald-950 border border-sky-500/40 hover:border-sky-400 rounded-xl p-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4 shadow-lg transition">
+        <div class="flex items-center gap-3.5 text-center sm:text-left">
+          <div class="w-11 h-11 rounded-xl bg-sky-500/
